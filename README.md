@@ -14,7 +14,7 @@ I'm a **Data Science student** passionate about building intelligent systems and
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech skills✨
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,10 +33,11 @@ I'm a **Data Science student** passionate about building intelligent systems and
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizal04&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizal04&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizal04&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizal04&layout=compact&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lizal04&hide_border=true)
 
 ## 📌 Featured Projects
 
