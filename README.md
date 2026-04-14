@@ -33,10 +33,6 @@ I'm a **Data Science student** passionate about building intelligent systems and
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizal04&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizal04&layout=compact&hide_border=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=lizal04&hide_border=true)
 
 ## 📌 Featured Projects
@@ -45,7 +41,7 @@ I'm a **Data Science student** passionate about building intelligent systems and
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me 🤩
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lizu0977@gmail.com)
