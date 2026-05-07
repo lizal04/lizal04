@@ -10,7 +10,7 @@ I'm a **Data Science student** passionate about building intelligent systems and
 - 🔍 Exploring **Machine Learning, AI & Backend Development**
 - 🌱 currently diving deeper into **Deep Learning & API design**
 - 💼 Open to **internship opportunities**
-- 📧 Reach me at: lizu0977@gmail.com
+- 📧 Reach me at: lizaladhikari4@gmail.com
 
 ---
 
